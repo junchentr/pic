@@ -1,5 +1,7 @@
 #! /bin/bash
 
+#this shell script automatically uploads commits all files in a folder to a specified github repository
+
 cd /c/Users/Java/hadoop/pic
 while true
 do
@@ -19,4 +21,4 @@ do
  rm -rf /c/Users/Java/hadoop/pic/* 
  
  sleep 3
-done
+done
